@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "154409842653",
+    "firebase_url": "https://pistagram-f2300-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pistagram-f2300",
+    "storage_bucket": "pistagram-f2300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154409842653:android:34ebfdfc36700ed5af6834",
+        "android_client_info": {
+          "package_name": "com.example.pistagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154409842653-hqm27ond3ldfpqkeaau782cnm9teojjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKA-59h8sltFzMd5TNTXe9j8VrcsD_fu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154409842653-hqm27ond3ldfpqkeaau782cnm9teojjd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154409842653-8vnt628t1ekutar3aqgtud9pulimkctm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pistagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
